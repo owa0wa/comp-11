@@ -6,3 +6,5 @@ Ayy, ayy, ayy, ayy
 Must be a X on my chest
 Ayy, whoa, ayy, whoa
 Ayy, ayy, ayy, whoa
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b30b63c6-b743-4db6-835c-5439e01b9292" />
